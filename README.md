@@ -43,3 +43,7 @@ O funcionamento da solução segue as seguintes etapas:
 4. **Geração de insights**
 
    Transformação dos feedbacks em informações estratégicas para apoiar decisões das equipes de atendimento e experiência do cliente.
+
+   ## Autor
+
+Projeto desenvolvido por Juliano Sobral durante o Bootcamp Bradesco GenAI, aplicando conceitos de Inteligência Artificial Generativa e Engenharia de Prompt.
