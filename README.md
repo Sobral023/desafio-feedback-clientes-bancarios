@@ -23,3 +23,23 @@ Criar um prompt capaz de orientar uma IA Generativa na análise de opiniões de 
 Um exemplo prático de aplicação do prompt pode ser encontrado no arquivo:
 
 - `exemplo-analise-feedback.md` — apresenta uma simulação de análise de feedbacks de clientes bancários, incluindo classificação de sentimentos, identificação de padrões e sugestões de melhoria.
+
+- ## Fluxo do Projeto
+
+O funcionamento da solução segue as seguintes etapas:
+
+1. **Entrada de dados**
+   
+   Feedbacks de clientes bancários contendo opiniões, reclamações, elogios e avaliações sobre produtos e serviços.
+
+2. **Processamento com IA Generativa**
+
+   Aplicação do prompt desenvolvido para orientar a Inteligência Artificial na análise dos comentários.
+
+3. **Análise dos feedbacks**
+
+   Classificação de sentimentos, identificação de padrões, temas recorrentes, impactos e oportunidades de melhoria.
+
+4. **Geração de insights**
+
+   Transformação dos feedbacks em informações estratégicas para apoiar decisões das equipes de atendimento e experiência do cliente.
