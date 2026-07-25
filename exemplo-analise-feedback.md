@@ -28,6 +28,7 @@ Abaixo estão exemplos fictícios de feedbacks recebidos por um banco:
 **Nota:** 3
 
 "O aplicativo demora para atualizar as informações do cartão e às vezes fico sem saber o limite disponível."
+
 ---
 
 ### Feedback 4
@@ -36,6 +37,7 @@ Abaixo estão exemplos fictícios de feedbacks recebidos por um banco:
 **Nota:** 5
 
 "Gostei muito da nova atualização do aplicativo. Ficou mais fácil consultar minhas informações."
+
 ---
 
 # Resultado da análise
@@ -79,7 +81,7 @@ Informações desatualizadas sobre cartão e limite podem gerar dúvidas, aument
 Justificativa:
 O atendimento positivo representa uma oportunidade de fortalecer o relacionamento com os clientes e manter altos níveis de satisfação.
 
-## Resultado do teste
+## Resultado do teste do prompt
 
 O prompt funcionou conforme esperado porque conseguiu:
 
