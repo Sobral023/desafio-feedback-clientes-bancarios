@@ -18,3 +18,8 @@ Criar um prompt capaz de orientar uma IA Generativa na análise de opiniões de 
 - Inteligência Artificial Generativa
 - Engenharia de Prompt
 - Markdown
+## Demonstração
+
+Um exemplo prático de aplicação do prompt pode ser encontrado no arquivo:
+
+- `exemplo-analise-feedback.md` — apresenta uma simulação de análise de feedbacks de clientes bancários, incluindo classificação de sentimentos, identificação de padrões e sugestões de melhoria.
