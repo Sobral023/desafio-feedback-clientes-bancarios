@@ -26,6 +26,8 @@ Um exemplo prático de aplicação do prompt pode ser encontrado no arquivo:
 
 ## Fluxo do Projeto
 
+![Fluxo do Projeto](fluxo-projeto.png)
+
 O funcionamento da solução segue as seguintes etapas:
 
 1. **Entrada de dados**
