@@ -37,3 +37,17 @@ Apresente o resultado contendo:
 * Não exponha dados pessoais, financeiros ou quaisquer informações sensíveis dos clientes.
 * Caso as informações sejam insuficientes para alguma conclusão, informe claramente essa limitação.
 * Utilize linguagem clara, objetiva, profissional e voltada para apoiar a tomada de decisão dos gestores.
+
+* ## Objetivo do Prompt
+
+Este prompt foi desenvolvido para orientar uma Inteligência Artificial Generativa na análise estruturada de feedbacks de clientes bancários, transformando dados textuais em insights estratégicos para melhoria da experiência do cliente.
+
+## Exemplo de entrada
+
+Cliente: "O aplicativo apresentou erro durante uma transferência Pix e não consegui concluir a operação."
+
+Canal: Aplicativo mobile
+
+Produto: Pix
+
+Nota de satisfação: 2
