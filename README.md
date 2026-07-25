@@ -1,6 +1,4 @@
 # Desafio Criativo - Feedback de Cliente Bancário
-Projeto de prompt, engenharia, desenvolvimento de prompt, Bradesco, GenAI, DIO
-
 Projeto de Engenharia de Prompt desenvolvido no Bootcamp Bradesco GenAI.
 
 ## Sobre o projeto
