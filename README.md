@@ -24,7 +24,7 @@ Um exemplo prático de aplicação do prompt pode ser encontrado no arquivo:
 
 - `exemplo-analise-feedback.md` — apresenta uma simulação de análise de feedbacks de clientes bancários, incluindo classificação de sentimentos, identificação de padrões e sugestões de melhoria.
 
-- ## Fluxo do Projeto
+## Fluxo do Projeto
 
 O funcionamento da solução segue as seguintes etapas:
 
